@@ -1,1 +1,1 @@
-# simple-c-task
+#C
